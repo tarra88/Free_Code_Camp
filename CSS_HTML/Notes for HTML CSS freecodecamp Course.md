@@ -65,6 +65,8 @@ Comments look like this:
 ```html
 <!-- Write your comments here -->
 ```
+# Comments in General
+While coding press cntrl / (or control key and the question mark key) to comment out the line. Press it again to uncomment the line.
 # CSS Gradients
 Gradients in CSS are a way to transition between colors across the distance of an element. They are applied to the background property and the syntax looks like this:
 ```css

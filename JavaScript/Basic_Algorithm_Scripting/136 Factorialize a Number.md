@@ -25,3 +25,13 @@ function factorialize(num) {
 
 console.log(factorialize(5));
 ```
+Another option is with a `for` loop:
+```js
+function factorialize(num) {
+ let i = 1;
+ for (let p = num; p > 0; p -= 1) {
+  i *= p;
+ }
+ return i;
+}
+```

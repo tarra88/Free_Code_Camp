@@ -1,5 +1,5 @@
 ---
-tags: [FCC/JavaScript/Basic_Algorithm_Scripting/144_Title_Case_a_Sentence]
+tags: [FCC/JavaScript/Basic_Algorithm_Scripting/144_Title_Case_a_Sentence toLowerCase toUpperCase Change-Case]
 ---
 Return the provided string with the first letter of each word capitalized. Make sure the rest of the word is in lower case.
 

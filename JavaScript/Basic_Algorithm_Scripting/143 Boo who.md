@@ -1,5 +1,5 @@
 ---
-tags: [FCC/JavaScript/Basic_Algorithm_Scripting/143_Boo_who testing_boolean]
+tags: [FCC/JavaScript/Basic_Algorithm_Scripting/143_Boo_who testing_boolean typeof]
 ---
 Check if a value is classified as a boolean primitive. Return true or false.
 
